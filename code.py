@@ -19,7 +19,7 @@ def timer(t):
         time.sleep(1)
 
         t=t-1
-    playsound("E:\IMPORTANT STUFF\PYTHON\PYTHON CODES\Timer\microwave-timer-117077.mp3")
+    playsound("//file path")
 
 
 
